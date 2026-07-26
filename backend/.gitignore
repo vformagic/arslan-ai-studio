@@ -1,0 +1,10 @@
+.env
+
+__pycache__/
+*.pyc
+
+.vscode/
+.idea/
+
+Para Kazanma Yöntemleri.html
+Para Kazanma Yöntemleri_files/
